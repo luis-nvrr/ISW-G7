@@ -10,7 +10,7 @@ Integrantes:
 
 ## Estructura del Repositorio
 ```
-├── HerramientasParaParciales
+├── HerramientasParaExamenes
 │   ├── Protocolos
 │   └── Templates
 ├── PlanDeConfiguracion
