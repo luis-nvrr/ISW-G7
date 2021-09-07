@@ -29,10 +29,6 @@ Integrantes:
 └── Teorico
     ├── Bibliografia
     ├── PresentacionesDeClases
-    │   ├── Unidad1
-    │   ├── Unidad2
-    │   ├── Unidad3
-    │   └── Unidad4
     └── TrabajosConceptuales
 ```
 
