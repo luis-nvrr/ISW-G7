@@ -17,15 +17,7 @@ Integrantes:
 ├── PlanDeConfiguracion
 ├── Practico
 │   ├── PracticosEvaluables
-│   │   ├── Unidad1
-│   │   ├── Unidad2
-│   │   ├── Unidad3
-│   │   └── Unidad4
 │   └── PracticosNoEvaluables
-│       ├── Unidad1
-│       ├── Unidad2
-│       ├── Unidad3
-│       └── Unidad4
 └── Teorico
     ├── Bibliografia
     ├── PresentacionesDeClases
